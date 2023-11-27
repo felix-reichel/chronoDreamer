@@ -1,0 +1,7 @@
+{
+  "name": "chronoDreamer",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
